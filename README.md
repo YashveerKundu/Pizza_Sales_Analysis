@@ -6,10 +6,11 @@ The project contains forecasting models to anticipate future sales based on prev
 
 #Key Features
  
- 📊 Interactive visualizations for sales trends and regional analysis.
-    💾 SQL queries for data extraction, cleaning, transformation, and aggregation.
-    🔢 Custom DAX measures for calculating metrics like total sales, profit margin, and sales growth.
-    📈 Forecasting using Power BI's built-in features and DAX formulas to predict future sales.
+ 1.📊 Interactive visualizations for sales trends and regional analysis.
+ 2. 💾 SQL queries for data extraction, cleaning, transformation, and aggregation.
+ 3. 🔢 Custom DAX measures for calculating metrics like total sales, profit margin, and sales growth.
+ 4. 📈 Forecasting using Power BI's built-in features and DAX formulas to predict future sales.
+    
 
 #Learning Outcomes
 
